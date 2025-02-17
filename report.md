@@ -1,0 +1,1 @@
+In this assignment, I have created my repository and named it "Terence-s-lab-1". After that, created the "index.html" file, the "report.md" file and the "student-info.txt" file. I then created a branch and made my first commit with th especial commit message. I then made my second commit. Lastly i deployed my html file to github pages.
